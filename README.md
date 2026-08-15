@@ -18,7 +18,7 @@ IT 刷题系统
 
 ## 项目结构
 
-
+```
 it-quiz/
 ├── public/
 │   └── favicon.svg                  # 站点图标
@@ -70,7 +70,7 @@ it-quiz/
 ├── package.json                     # 项目依赖与脚本
 ├── package-lock.json                # 依赖锁定
 └── .gitignore                       # Git 忽略规则
-
+```
 
 ## 默认快捷键
 
